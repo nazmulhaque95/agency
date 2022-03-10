@@ -1,0 +1,610 @@
+@media (min-width: 279px) and (max-width: 319px){
+/*responsive Code start */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.global-item h1 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 22px;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  color: #333333;
+}
+.global-item p {
+    font-size: 12px;
+    line-height: 22px;
+    padding: 0px;
+    text-align: justify;
+    margin-bottom: 44px;
+}
+.Branding {
+    margin-bottom: 72px;
+}
+.Branding h4 {
+  margin: 0px;
+  margin-top: 54px;
+  font-size: 18px;
+}
+.Branding p {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 22px;
+  padding: 0px 30px;
+}
+.Branding a {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+}
+.Welcome-to {
+    padding: 0px 0px 0px;
+}
+.About-US .text-right h1 {
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 40px;
+  margin-bottom: 20px;
+  margin-top: 36px;
+  text-align: center;
+  margin: 0px 0px 0px -90px;
+}
+.About-US .text-right h1 {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-bottom: 20px;
+  margin-top: 36px;
+  margin: 38px 0px 7px -90px;
+}
+.About-US .text-right p {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 22px;
+  text-align: justify;
+  margin: 0px 0px 10px -90px;
+  padding: 0px;
+}
+.title .box{
+  text-align: center;
+}
+.title h6 {
+  padding: 5px 5px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+  display: inline;
+}
+.About-US {
+  width: 100%;
+  padding: 0px 0px 45px 0px;
+}
+.Design li a {
+  display: block;
+  padding: 1px 3px;
+  font-size: 10px;
+  font-weight: 300;
+}
+.Recent-Work {
+  padding: 0px 0px 0px 0px;
+}
+
+.Recent-Work .Design {
+  width: 100%;
+  text-align: center;
+  margin-top: 0px;
+}
+.Recent-Work .lond-on{
+  margin-bottom: 20px;
+}
+.Why-Choose .global-item h1 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  text-transform: uppercase;
+  margin-bottom: 25px;
+  color: #333333;
+}
+.Nipro {
+  width: 100%;
+  margin: 10px 0px 10px 0px;
+}
+.Nipro span {
+  font-size: 16px;
+}
+.Nipro p {
+  font-size: 14;
+  line-height: 24px;
+}
+.Why-Choose {
+  width: 100%;
+  padding: 0px 0px 5px 0px;
+  background-color: #ffffff;
+}
+.global-item h1 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 22px;
+  text-transform: uppercase;
+  margin-bottom: 0px;
+  color: #333333;
+}
+.Ashiful .haque {
+  position: absolute;
+  margin: 44px 0px -343px 0px;
+  margin-top: 252px;
+  margin-left: -255px;
+  vertical-align: middle;
+  z-index: 0;
+  margin-bottom: 20px;
+}
+.global-item h1 {
+  margin-bottom: 0px;
+}
+.month {
+  padding: 30px 20px;
+  margin: 986px 0px 32px 0px;
+}
+.Best-Pricing .ucren{
+	margin-top: 20px;
+}
+.Nipro .bg-dark h3 {
+  font-size: 16px;
+  line-height: 52px;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #404040;
+}
+.Al-Rayhan .border-1 h5 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  text-transform: uppercase;
+  color: #333333;
+  margin: -19px 0px 10px 0px;
+  padding: 0px;
+}
+.Al-Rayhan .border-1 p {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+  display: block;
+  padding: 0px 0px 0px 0xp;
+  color: #969696;
+  margin: 0px 0px 5px 0px;
+}
+.Al-Rayhan .Lorem {
+  padding: 0px 0px 0px 23px;
+  margin: 0px 0px 0px 1px;
+  display: inline;
+}
+.Al-Rayhan .Lorem .thard {
+  margin-left: -5px;
+}
+.Contact-US {
+  width: 100%;
+  padding: 50px 0px 25px 0px;
+}
+.Contact-US .bg-light {
+  display: block;
+  border: 1px solid #d1d1d1;
+  background-color: #ffffff !important;
+  position: relative;
+  padding: 57px 0px 43px 0px;
+}
+.Nipro-Agency p {
+  margin-top: 8px;
+  font-size: 12px;
+  font-weight: 400px;
+  line-height: 20px;
+  margin-bottom: 16px;
+}
+.agency ul li {
+  width: 44px;
+  height: 44px;
+  display: inline-block;
+  border: 1px solid #ffffff;
+  background: transparent;
+  text-align: center;
+  padding: :0px 0px;
+}
+.agency ul li a {
+  display: block;
+  padding: 9px 12px;
+  font-size: 23px;
+  text-align: center;
+}
+.Support p{
+	margin-top: -24px;
+	text-align: center;
+}
+.Support .order-list li{
+	margin: 0px auto;
+}
+.Support .order-list li {
+  display: block;
+  margin: 0px 0px 0px 0px;
+}
+.Support .order-list li a {
+  text-decoration: none;
+  display: inline;
+  padding: 0px 2px 0px 11px;
+  font-size: 12px;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+}
+/*responsive Code end */
+@media (min-width: 320px) and (max-width: 480px){
+/*responsive Code start */
+.global-item p {
+    font-size: 13px;
+    line-height: 23px;
+    padding: 0px;
+    text-align: justify;
+    margin-bottom: 44px;
+}
+.Branding {
+    margin-bottom: 72px;
+}
+.Welcome-to {
+    padding: 0px 0px 0px;
+}
+.About-US .text-right h1 {
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 40px;
+  margin-bottom: 20px;
+  margin-top: 36px;
+  text-align: center;
+  margin: 0px 0px 0px -90px;
+}
+.About-US .text-right p {
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 23px;
+  text-align: justify;
+  margin: 0px 0px 10px -90px;
+  padding: 0px;
+}
+.title .box{
+  text-align: center;
+}
+.About-US {
+  width: 100%;
+  padding: 0px 0px 64px 0px;
+}
+.Design li a {
+  display: block;
+  padding: 5px 3px;
+  font-size: 10px;
+  font-weight: 400;
+  color: #8e8e8e;
+}
+.Recent-Work .Design {
+  width: 100%;
+  text-align: center;
+  margin-top: 0px;
+}
+.Recent-Work .lond-on{
+  margin-bottom: 20px;
+}
+.Why-Choose .global-item h1 {
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 35px;
+  text-transform: uppercase;
+  margin-bottom: 35px;
+  color: #333333;
+}
+.Nipro {
+  width: 100%;
+  margin: 10px 0px 10px 0px;
+}
+.Why-Choose {
+  width: 100%;
+  padding: 0px 0px 5px 0px;
+  background-color: #ffffff;
+}
+.global-item h1 {
+  margin-bottom: 0px;
+}
+.month {
+  padding: 30px 20px;
+  margin: 986px 0px 32px 0px;
+}
+.Best-Pricing .ucren{
+	margin-top: 20px;
+}
+.Nipro .bg-dark h3 {
+  font-size: 16px;
+  line-height: 52px;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #404040;
+}
+.Al-Rayhan .border-1{
+  border: 1px solid #cccccc !important;
+}
+.Al-Rayhan .Lorem {
+  padding: 0px 32px 0px;
+  margin: 0px 0px 0px 1px;
+  display: inline;
+}
+.Al-Rayhan .Lorem .thard {
+  margin-left: -5px;
+}
+.Contact-US {
+  width: 100%;
+  padding: 50px 0px 25px 0px;
+}
+.Contact-US .bg-light {
+  display: block;
+  border: 1px solid #d1d1d1;
+  background-color: #ffffff !important;
+  position: relative;
+  padding: 57px 0px 43px 0px;
+}
+.Nipro-Agency p {
+  margin-top: 8px;
+  font-size: 12px;
+  font-weight: 400px;
+  line-height: 20px;
+  margin-bottom: 16px;
+}
+.agency ul li {
+  width: 44px;
+  height: 44px;
+  display: inline-block;
+  border: 1px solid #ffffff;
+  background: transparent;
+  text-align: center;
+  padding: :0px 0px;
+}
+.agency ul li a {
+  display: block;
+  padding: 10px 12px;
+  font-size: 23px;
+  text-align: center;
+}
+.Support p{
+	margin-top: -24px;
+	text-align: center;
+}
+.Support .order-list li{
+	margin: 0px auto;
+}
+.Support .order-list li a {
+  text-decoration: none;
+  display: block;
+  padding: 0px 2px 0px 11px;
+  font-size: 12px;
+  font-weight: 400px;
+  text-transform: capitalize;
+  color: #ffffff;
+  margin-top: -10px;
+  margin-left: 0px;
+}
+}
+/*responsive Code end */
+@media (min-width: 481px) and (max-width: 767px){
+/*responsive Code start */
+.global-item h1 {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px;
+  margin-bottom: 25px;
+}
+.global-item p {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 22px;
+  padding: 10px 0px 26px 0px;
+  margin-top: -26px;
+}
+.Branding {
+  width: 100%;
+  display: block;
+  border: 1px solid #999;
+  text-align: center;
+  position: relative;
+  margin-bottom: 42px;
+}
+.Welcome-to {
+  width: 100%;
+  padding: 0px 0px 0px;
+  background-color: #ffffff;
+}
+.About-US .text-right h1 {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 68px;
+  margin-top: 10px;
+  margin-bottom: 6px;
+  margin-left: -80px;
+}
+.About-US .text-right p{
+  padding: 0px 0px 0px 0px;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 22px;
+  margin-left: -80px;
+}
+.title h6 {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+}
+.About-US {
+  width: 100%;
+  padding: 0px 0px 45px 0px;
+}
+.global-item h1 {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28px;
+  margin-bottom: 25px;
+}
+.About-US .title{
+  margin-left: -80px;
+}
+.Design li a {
+  padding: 10px 8px;
+  font-size: 12px;
+}
+.Recent-Work{
+  width: 100%;
+  padding: 0px 0px 0px 0px;
+  text-align: center;
+}
+.Recent-Work .lond-on{
+  margin-bottom: 20px;
+
+}
+.Why-Choose .global-item h1 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  text-transform: uppercase;
+  margin-bottom: 22px;
+  color: #333333;
+}
+.Nipro {
+  width: 100%;
+  margin: 10px 0px 17px 0px;
+  text-align: center;
+}
+.Why-Choose {
+  padding: 0px 0px 0px 0px;
+}
+.Ashiful {
+  width: 100%;
+  text-align: center;
+  margin-top: 0px;
+  position: relative;
+}
+.Ashiful img{
+  margin-bottom: 104px;
+}
+.Ashiful ul {
+  position: absolute;
+  margin-top: -307px;
+  padding: 28px 9px;
+  margin-left: 90px;
+}
+.month {
+  padding: 30px 20px;
+  margin: 718px 0px 32px 0px;
+}
+.Best-Pricing .ucren{
+  margin-top: 20px;
+}
+.title {
+  width: 100%;
+  text-align: center;
+  margin-top: 20px;
+}
+.Al-Rayhan .border-1 {
+  padding: 20px 10px 59px 10px;
+}
+.Al-Rayhan .Lorem {
+  transform: rotate(90deg);
+  padding: 0px 94px 0px 135px;
+  text-align: center;
+  border: 1px solid #cccccc;
+  margin: 91px 0px 0px -460px;
+  display: inline;
+  background-color: #f8f8f8;
+}
+.Contact-US {
+  width: 100%;
+  padding: 35px 0px;
+}
+.Contact-US .bg-light {
+  padding: 61px 10px 49px 42px;
+  border: 1px solid #d1d1d1;
+  background-color: #ffffff !important;
+  position: relative;
+}
+.Nipro-Agency {
+  width: 100%;
+  padding: 0px 0px 0px 0px;
+  height: 57vh;
+}
+.Nipro-Agency p {
+  margin-top: 20px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+.agency ul li a {
+  display: block;
+  padding: 14px 12px;
+  font-size: 25px;
+}
+.Support .order-list{
+  text-align: center;
+}
+.Support .order-list li a {
+  text-decoration: none;
+  display: block;
+  padding: 0px 0px 0px 21px;
+  font-size: 16px;
+  font-weight: 400px;
+  text-transform: capitalize;
+  color: #ffffff;
+  margin-top: 5px;
+  margin-left: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+/*responsive Code end */
+@media (min-width: 768px) and (max-width: 1024px){
+/*responsive Code start */
+}
+/*responsive Code end */
